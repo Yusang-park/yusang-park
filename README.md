@@ -22,14 +22,14 @@
  Main Developer of startup Lingory _(http://lingory.net/)_ (2020.10~) <br>
 <a href="https://play.google.com/store/apps/details?id=org.languageapp.lingory">
     <img 
-        src="https://gleence.com/images/loghi/Google_Badge_US-White.png",
+        src="http://www.lingory.net/Asset/Playsotre.png",
          width=123px;
          height=38px;
         style="margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://play.google.com/store/apps/details?id=org.languageapp.lingory">
+<a href="https://itunes.apple.com/app/id1556564572?">
     <img 
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPgXYSPiiE6ruQqTW7AWwY2PQvTEAIct65A&usqp=CAU",
+        src="http://www.lingory.net/Asset/Appstore.png",
          width=123px;
          height=38px;
         style="margin-left : 10px; margin-right : 10px;"/>
