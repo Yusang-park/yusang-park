@@ -11,7 +11,7 @@
 - HTML & CSS
 
 ## Career
-👱 Main Developer of Lingory App _(http://lingory.net/)_ (2020.10~) <br>
+👱 Main Developer of startup Lingory _(http://lingory.net/)_ (2020.10~) <br>
 
 
 <br>
