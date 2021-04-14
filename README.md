@@ -12,7 +12,7 @@
 
 ## Career
 
- <a href="https://play.google.com/store/apps/details?id=org.languageapp.lingory">
+ <a href="http://lingory.net">
     <img 
         src="https://play-lh.googleusercontent.com/Tl08df19MlhTQFPky53PteQ2xD-MAUSzGNnGlPDV3xoKlh3ihYLsF54b51xIzlUC3CA=s360-rw",
          width=25px;
