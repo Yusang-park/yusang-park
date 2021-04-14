@@ -12,7 +12,12 @@
 
 ## Career
 - Main Developer of startup Lingory _(http://lingory.net/)_ (2020.10~) <br>
-
+<br>
+<a href="https://play.google.com/store/apps/details?id=org.languageapp.lingory">
+    <img 
+        src="https://gleence.com/images/loghi/Google_Badge_US-White.png"
+        style="height : 123px; width : 81px; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
 
