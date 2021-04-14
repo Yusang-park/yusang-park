@@ -29,7 +29,7 @@
 </a>
 <a href="https://play.google.com/store/apps/details?id=org.languageapp.lingory">
     <img 
-        src="https://gleence.com/images/loghi/Google_Badge_US-White.png",
+        src="https://www.vhv.rs/dpng/d/586-5866978_download-on-the-app-store-button-png-transparent.png",
          width=123px;
          height=38px;
         style="margin-left : 10px; margin-right : 10px;"/>
