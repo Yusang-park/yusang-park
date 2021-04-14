@@ -11,7 +11,18 @@
 - HTML & CSS
 
 ## Career
-- Main Developer of startup Lingory _(http://lingory.net/)_ (2020.10~)
+
+  <img 
+        src="https://play-lh.googleusercontent.com/Tl08df19MlhTQFPky53PteQ2xD-MAUSzGNnGlPDV3xoKlh3ihYLsF54b51xIzlUC3CA=s360-rw",
+        style="margin-left : 10px; margin-right : 10px;"/>
+Main Developer of startup Lingory _(http://lingory.net/)_ (2020.10~)
+<a href="https://play.google.com/store/apps/details?id=org.languageapp.lingory">
+    <img 
+        src="https://gleence.com/images/loghi/Google_Badge_US-White.png",
+         width=123px;
+         height=38px;
+        style="margin-left : 10px; margin-right : 10px;"/>
+</a>
 <a href="https://play.google.com/store/apps/details?id=org.languageapp.lingory">
     <img 
         src="https://gleence.com/images/loghi/Google_Badge_US-White.png",
@@ -23,7 +34,7 @@
 
 
 
-
+<br>
 <br>
 <a href="https://muhly.tistory.com/">
     <img 
