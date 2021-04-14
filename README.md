@@ -12,9 +12,14 @@
 
 ## Career
 
-  <img 
+ <a href="https://play.google.com/store/apps/details?id=org.languageapp.lingory">
+    <img 
         src="https://play-lh.googleusercontent.com/Tl08df19MlhTQFPky53PteQ2xD-MAUSzGNnGlPDV3xoKlh3ihYLsF54b51xIzlUC3CA=s360-rw",
+         width=50px;
+         height=50px;
         style="margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 Main Developer of startup Lingory _(http://lingory.net/)_ (2020.10~)
 <a href="https://play.google.com/store/apps/details?id=org.languageapp.lingory">
     <img 
