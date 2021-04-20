@@ -2,8 +2,7 @@
 
 
 <h1>Hi, I'm pitter park<h1>
-
-
+ 
 ## Who Am I
 💻 Major: Computer Science  <br>
 🦁 LikeLion 9th <br>
