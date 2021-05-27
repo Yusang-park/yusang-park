@@ -1,17 +1,20 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilkness&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<h1>Hi, I'm pitter park
+<h1>Hi, I'm pitter park, Mobile Developer
  
 ## Who Am I
-💻 Major: Computer Science  <br>
-🦁 LikeLion 9th <br>
-🎖 Google Developer Student 2020 Member
+💻 Computer Science Major <br>
+🎖 Google Developer Student 2020 Member<br>
+🦁 Korea LikeLion 9th <br>
 
+ 
 ## Stack
-- Flutter & Dart
-- React.js & Javascript
-- HTML & CSS
+- <img src="https://img.shields.io/badge/Flutter-3766AB?style=flat-square&logo=flutter&logoColor=white"/></a> <img src="https://img.shields.io/badge/Dart-3766AB?style=flat-square&logo=dart&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Django-3766AB?style=flat-square&logo=Django&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Firebase-3766AB?style=flat-square&logo=Firebase&logoColor=white"/></a>
+
 
 ## Career
 
@@ -22,7 +25,8 @@
          height=25px;
         style="margin-left : 10px; margin-right : 10px;"/>
 </a>
- <b>Lingory</b>, Startup, Main Developer <br>(http://lingory.net/) (2020.10~) <br>
+ <b>Lingory</b> (http://lingory.net/) 2020.10 ~ <br>
+ Korea start-up, Main developer <br>
 <a href="https://play.google.com/store/apps/details?id=org.languageapp.lingory">
     <img 
         src="http://www.lingory.net/Asset/Playsotre.png",
@@ -40,8 +44,8 @@
 
 
 
-<br>
-<br>
+
+## Blog
 <a href="https://muhly.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://muhly.tistory.com/"
