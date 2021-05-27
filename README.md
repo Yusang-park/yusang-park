@@ -22,7 +22,7 @@
          height=25px;
         style="margin-left : 10px; margin-right : 10px;"/>
 </a>
- <b>Lingory</b>, Startup, Main Developer (http://lingory.net/) (2020.10~) <br>
+ <b>Lingory</b>, Startup, Main Developer <br>(http://lingory.net/) (2020.10~) <br>
 <a href="https://play.google.com/store/apps/details?id=org.languageapp.lingory">
     <img 
         src="http://www.lingory.net/Asset/Playsotre.png",
