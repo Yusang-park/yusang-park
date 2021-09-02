@@ -17,7 +17,7 @@
  <b>Lingory</b> (http://lingory.net/) 2020.10 ~ <br>
  IT START-UP, Main developer
 
-<br>
+<br><br>
 
 <a href="https://muhly.tistory.com/">
     <img 
