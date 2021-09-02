@@ -18,22 +18,7 @@
         style="margin-left : 10px; margin-right : 10px;"/>
 </a>
  <b>Lingory</b> (http://lingory.net/) 2020.10 ~ <br>
- Korea start-up, Main developer <br>
-<a href="https://play.google.com/store/apps/details?id=org.languageapp.lingory">
-    <img 
-        src="http://www.lingory.net/Asset/Playsotre.png",
-         width=123px;
-         height=38px;
-        style="margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://itunes.apple.com/app/id1556564572?">
-    <img 
-        src="http://www.lingory.net/Asset/Appstore.png",
-         width=123px;
-         height=38px;
-        style="margin-left : 10px; margin-right : 10px;"/>
-</a>
-
+ IT START-UP, Main developer <br>
 
 
 
