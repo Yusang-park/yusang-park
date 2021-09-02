@@ -15,7 +15,7 @@
         style="margin-left : 10px; margin-right : 10px;"/>
 </a>
  <b>Lingory</b> (http://lingory.net/) 2020.10 ~ <br>
- IT START-UP, Main developer <br>
+ IT START-UP, Main developer
 
 <br><br>
 
