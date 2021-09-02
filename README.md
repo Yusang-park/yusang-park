@@ -19,7 +19,6 @@
 
 
 
-## Blog
 <a href="https://muhly.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://muhly.tistory.com/"
