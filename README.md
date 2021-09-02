@@ -1,20 +1,14 @@
-<h1>Hi, I'm pitter park, Mobile Developer
- 
-## Who Am I
 💻 Computer Science Major <br>
 🎖 Google Developer Student 2020 Member<br>
 🦁 Korea LikeLion 9th <br>
 
  
-## Stack
- I love flutter!
 - <img src="https://img.shields.io/badge/Flutter-3766AB?style=flat-square&logo=flutter&logoColor=white"/></a> <img src="https://img.shields.io/badge/Dart-3766AB?style=flat-square&logo=dart&logoColor=white"/></a>
 - <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 - <img src="https://img.shields.io/badge/Django-3766AB?style=flat-square&logo=Django&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 - <img src="https://img.shields.io/badge/Firebase-3766AB?style=flat-square&logo=Firebase&logoColor=white"/></a>
 
 
-## Career
 
  <a href="http://lingory.net">
     <img 
