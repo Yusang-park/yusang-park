@@ -15,7 +15,8 @@
         style="margin-left : 10px; margin-right : 10px;"/>
 </a>
  <b>Lingory</b> (http://lingory.net/) 2020.10 ~ <br>
- IT START-UP, Main developer
+Learning korean app (android / ios)
+Main developer & CTO
 
 <br><br>
 
