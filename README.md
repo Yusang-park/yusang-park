@@ -18,12 +18,12 @@
 Learning korean app (android / ios)
 Main app developer & Founding member
 <br>
-
+<br>
 <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 
  <b>CryptoFolio</b> (http://cryptofolio.cf/) <br>
 Crypto currencies information web site
-<br>
+<br><br>
 <img src="https://img.shields.io/badge/Django-3766AB?style=flat-square&logo=Django&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Firebase-3766AB?style=flat-square&logo=Firebase&logoColor=white"/></a> <img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square&logo=JAVA&logoColor=white"/></a>
 <br>
 
