@@ -7,19 +7,19 @@
  
 <img src="https://img.shields.io/badge/Flutter-3766AB?style=flat-square&logo=flutter&logoColor=white"/></a> <img src="https://img.shields.io/badge/Dart-3766AB?style=flat-square&logo=dart&logoColor=white"/></a> 
 
- <a href="http://lingory.net">
+
     <img 
         src="https://play-lh.googleusercontent.com/Tl08df19MlhTQFPky53PteQ2xD-MAUSzGNnGlPDV3xoKlh3ihYLsF54b51xIzlUC3CA=s360-rw",
          width=25px;
          height=25px;
         style="margin-left : 10px; margin-right : 10px;"/>
-</a>
+
  <b>Lingory</b> (http://lingory.net/) 2020.10 ~ <br>
 Learning korean app (android / ios)
 Main app developer & Founding member
 <br>
 <br>
-<img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 
  <b>CryptoFolio</b> (http://cryptofolio.cf/) <br>
 Crypto currencies information web site
