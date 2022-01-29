@@ -18,7 +18,7 @@ Main app developer & Founding member
 <img src="https://img.shields.io/badge/Flutter-3766AB?style=flat-square&logo=flutter&logoColor=white"/></a> <img src="https://img.shields.io/badge/Dart-3766AB?style=flat-square&logo=dart&logoColor=white"/></a><br>
 
 
-<img src="https://cryptofolio.cf/static/media/ico_logo.e06b54dc.png"
+<img src="https://user-images.githubusercontent.com/70798972/151666852-2b83c6d6-cc14-4f8d-a1d6-a25729f07d04.png"
         width=30px
          height=30px
     /></a> 
