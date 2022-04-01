@@ -11,7 +11,7 @@
         width=25px
          height=25px
     /></a> 
- <b>Lingory</b> (http://lingory.net/) 2020.10 ~ <br>
+ <b>Lingory</b> (http://lingory.net/) 2020.10 ~ 2021.12 <br>
 Learning korean app (android / ios)
 Main app developer & Founding member
 <br>
