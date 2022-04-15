@@ -22,7 +22,7 @@ Main app developer & Founding member
         width=30px
          height=30px
     /></a> 
- <b>CryptoFolio</b> (https://coinfolio.netlify.app) <br>
+ <b>Bitfolio</b> (https://bitfolio.me) <br>
 Crypto currencies information web site<br>
 <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 <br><br><br>
