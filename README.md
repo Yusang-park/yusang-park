@@ -12,8 +12,8 @@
          height=25px
     /></a> 
  <b>Lingory</b> (http://lingory.net/) 2020.10 ~ 2021.12 <br>
-Learning korean app (android / ios)
-Main app developer & Founding member
+Edu tech start-up (Learning korean)
+Application developer & Founding member
 <br>
 <img src="https://img.shields.io/badge/Flutter-3766AB?style=flat-square&logo=flutter&logoColor=white"/></a> <img src="https://img.shields.io/badge/Dart-3766AB?style=flat-square&logo=dart&logoColor=white"/></a><br>
 
