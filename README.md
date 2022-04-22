@@ -1,7 +1,5 @@
-💻 Computer Science Major <br>
 🎖 Google Developer Student 2020 Member<br>
 🦁 Korea LikeLion 9th <br>
-🔥 'Lingory' Founding member
 <br>
 <br>
  
