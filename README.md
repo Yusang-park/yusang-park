@@ -9,7 +9,7 @@
         width=25px
          height=25px
     /></a> 
- <b>Lingory</b> (http://lingory.net/) 2020.10 ~ 2021.12 <br>
+ <b>Lingory</b> (http://lingory.net/) 2020.10 ~ 2022.1 <br>
 Edu tech start-up (Learning korean)
 Application developer & Founding member
 <br>
