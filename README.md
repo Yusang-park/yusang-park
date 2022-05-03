@@ -1,6 +1,6 @@
 🎖 Google Developer Student 2020 Member<br>
-🦁 Korea LikeLion 9th <br>
-👨🏼‍💻 Elice SW engineer track 2022 <br>
+🦁 LikeLion (Student-run Tech Entrepreneurship Community) <br>
+👨🏼‍💻 Elice SW engineer track 2022 (Web full-stack) <br>
 
 <h2>Experience</h2>
 
