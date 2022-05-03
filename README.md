@@ -27,6 +27,9 @@ Cryptocurrencies information web service<br><br>
  <b><a href="https://myunit.netlify.app/"> Myunit </a> </b> <br>
 Helps to find team members for any project, organization, or club easily and fast.<br>
 
+<b><a href="https://muhly.tistory.com/68?category=966965"> Megapos </a> </b> <br>
+Unmanned store payment application using NFC that changes uncomfortable store usage experience
+
 
 
 
