@@ -43,12 +43,12 @@ Unmanned store payment application using NFC that changes uncomfortable store us
 
 
 <h2>Links</h2>
-<a href="https://muhly.tistory.com/">
+<a href="https://pitterpark.notion.site/Yusang-Park-74ce7926bf06411b8f5410c365fc64b3">
     <img 
-        src="http://img.shields.io/badge/Portfolio-blue?style=flat&link=https://pitterpark.notion.site/Yusang-Park-74ce7926bf06411b8f5410c365fc64b3"
+        src="http://img.shields.io/badge/Portfolio-blue?style=flat"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
 <a href="https://muhly.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-blueviolet?style=flat&link=https://muhly.tistory.com/"
+        src="http://img.shields.io/badge/-Tech%20Blog-blueviolet?style=flat"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
