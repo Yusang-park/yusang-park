@@ -9,7 +9,7 @@
          height=25px
     /></a> 
  <b><a href="https://lingory.net">Lingory</a></b><br>Founding member & Mobile developer, <span style="color:gray">2020.10 ~ 2022.1</span><br>
-EduTech start-up, serve learning language solution
+EduTech start-up, serve learning language solution, attained 300,000 downloads
 
 
 <h2>Projects</h2>
