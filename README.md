@@ -16,7 +16,7 @@ EduTech start-up, serve learning language solution, attained 300,000 downloads
 
 
  <b><a href="https://bitfolio.me"> Bitfolio </a> </b> <br>
-Cryptocurrencies information web service<br><br>
+Cryptocurrencies information web service<br>
 
  <b><a href="https://myunit.netlify.app/"> Myunit </a> </b> <br>
 Helps to find team members for any project, organization, or club easily and fast.<br>
