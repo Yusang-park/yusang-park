@@ -4,10 +4,17 @@
 
 <h2>Experience</h2>
 
+<img src="https://trello-logos.s3.amazonaws.com/8bc53408ee3fe48aadef42ec71dd9a77/170.png"
+      width=25px
+         height=25px
+     />
+<b><a href="https://chartmetric.com">Chartmetric</a></b><br>Full stack developer as an intern, <span style="color:gray">2022.07 ~ </span><br>
+React, Angular, NodeJs, Express, Docker, NextJS
+
 <img src="https://play-lh.googleusercontent.com/Tl08df19MlhTQFPky53PteQ2xD-MAUSzGNnGlPDV3xoKlh3ihYLsF54b51xIzlUC3CA=s360-rw"
         width=25px
          height=25px
-    /></a> 
+    />
  <b><a href="https://lingory.net">Lingory</a></b><br>Founding member & Mobile developer, <span style="color:gray">2020.10 ~ 2022.1</span><br>
 EduTech start-up, serve learning language solution, attained 300,000 downloads
 
