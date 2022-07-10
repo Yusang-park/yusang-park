@@ -2,7 +2,7 @@
 🦁 LikeLion 2021 (Student-run Tech Entrepreneurship Community) <br>
 👨🏼‍💻 Elice SW engineer track 2022 (Web full-stack) <br>
 
-<h2>Experience</h2>
+<h2>Principal Experience</h2>
 
 <img src="https://trello-logos.s3.amazonaws.com/8bc53408ee3fe48aadef42ec71dd9a77/170.png"
       width=25px
