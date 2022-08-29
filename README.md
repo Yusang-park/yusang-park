@@ -1,6 +1,5 @@
 🎖 Google Developer Student 2020 Member<br>
 🦁 LikeLion 2021 (Student-run Tech Entrepreneurship Community) <br>
-👨🏼‍💻 Elice SW engineer track 2022 (Web full-stack) <br>
 
 <h2>Principal Experience</h2>
 
