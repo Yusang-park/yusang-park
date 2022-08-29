@@ -1,3 +1,4 @@
+🔥 ICT Global SiliconValley Internship 12th (20222) <br>
 🎖 Google Developer Student 2020 Member<br>
 🦁 LikeLion 2021 (Student-run Tech Entrepreneurship Community) <br>
 
