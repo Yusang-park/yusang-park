@@ -38,6 +38,7 @@ Unmanned store payment application using NFC that changes uncomfortable store us
 
 <img src="https://img.shields.io/badge/React-FFCD00?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Redux-FFCD00?style=flat-square&logo=Redux&logoColor=black"/> <img src="https://img.shields.io/badge/NodeJS-FFCD00?style=flat-square&logo=Node.js&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Express-FFCD00?style=flat-square&logo=express&logoColor=black"/> 
+<img src="https://img.shields.io/badge/ElasticSearch-FFCD00?style=flat-square&logo=ElasticSearch&logoColor=black"/> 
 <img src="https://img.shields.io/badge/MongoDB-FFCD00?style=flat-square&logo=MongoDB&logoColor=black"/> 
 <img src="https://img.shields.io/badge/JavaScript-FFCD00?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-FFCD00?style=flat-square&logo=TypeScript&logoColor=black"/></a><br>
