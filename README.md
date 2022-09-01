@@ -9,7 +9,7 @@
          height=25px
      />
 <b><a href="https://chartmetric.com">Chartmetric</a></b><br>Full stack developer as an intern, <span style="color:gray">2022.07 ~ </span><br>
-SiliconValley Bay area, React, Angular, NodeJs, Express, Docker, NextJS
+SiliconValley Bay area, Full-stack engineer with big-data
 
 <img src="https://play-lh.googleusercontent.com/Tl08df19MlhTQFPky53PteQ2xD-MAUSzGNnGlPDV3xoKlh3ihYLsF54b51xIzlUC3CA=s360-rw"
         width=25px
