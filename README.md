@@ -17,7 +17,7 @@ SiliconValley Bay area, Full-stack engineer with big-data
          height=25px
     />
  <b><a href="https://ccnets.org">CCNets</a></b><br>Associate developer, <span style="color:gray">2022.05 ~ 2022.10</span><br>
-Casual mechine learning model
+Causal machine learning modeling
 
 <img src="https://play-lh.googleusercontent.com/Tl08df19MlhTQFPky53PteQ2xD-MAUSzGNnGlPDV3xoKlh3ihYLsF54b51xIzlUC3CA=s360-rw"
         width=25px
