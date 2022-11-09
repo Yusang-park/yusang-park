@@ -8,7 +8,7 @@
       width=25px
          height=25px
      />
-<b><a href="https://chartmetric.com">Chartmetric</a></b><br>Full stack developer as an intern, <span style="color:gray">2022.07 ~ </span><br>
+<b><a href="https://chartmetric.com">Chartmetric</a></b><br>Full stack developer intern, <span style="color:gray">2022.07 ~ </span><br>
 SiliconValley Bay area, Full-stack engineer with big-data
 
 
