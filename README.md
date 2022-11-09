@@ -11,6 +11,14 @@
 <b><a href="https://chartmetric.com">Chartmetric</a></b><br>Full stack developer as an intern, <span style="color:gray">2022.07 ~ </span><br>
 SiliconValley Bay area, Full-stack engineer with big-data
 
+
+<img src="https://www.ccnets.org/favicon/favicon-32x32.png"
+        width=25px
+         height=25px
+    />
+ <b><a href="https://ccnets.org">CCNets</a></b><br>Associate developer, <span style="color:gray">2022.05 ~ 2022.10</span><br>
+Mechine learning modeling
+
 <img src="https://play-lh.googleusercontent.com/Tl08df19MlhTQFPky53PteQ2xD-MAUSzGNnGlPDV3xoKlh3ihYLsF54b51xIzlUC3CA=s360-rw"
         width=25px
          height=25px
@@ -27,11 +35,6 @@ Cryptocurrencies information web service<br>
 
  <b><a href="https://myunit.netlify.app/"> Myunit </a> </b> <br>
 Helps to find team members for any project, organization, or club easily and fast.<br>
-
-<b><a href="https://muhly.tistory.com/68?category=966965"> Megapos </a> </b> <br>
-Unmanned store payment application using NFC that changes uncomfortable store usage experience
-
-
 
 
 <h2>Stacks</h2>
