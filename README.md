@@ -11,14 +11,6 @@
 <b><a href="https://chartmetric.com">Chartmetric</a></b><br>Full stack developer intern, <span style="color:gray">2022.07 ~ </span><br>
 SiliconValley Bay area, Full-stack engineer with big-data
 
-
-<img src="https://www.ccnets.org/favicon/favicon-32x32.png"
-        width=25px
-         height=25px
-    />
- <b><a href="https://ccnets.org">CCNets</a></b><br>Associate developer, <span style="color:gray">2022.05 ~ 2022.10</span><br>
-Causal machine learning modeling
-
 <img src="https://play-lh.googleusercontent.com/Tl08df19MlhTQFPky53PteQ2xD-MAUSzGNnGlPDV3xoKlh3ihYLsF54b51xIzlUC3CA=s360-rw"
         width=25px
          height=25px
