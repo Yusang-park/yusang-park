@@ -1,7 +1,3 @@
-🔥 ICT Global SiliconValley Internship 12th (2022) <br>
-🎖 Google Developer Student 2020 Member<br>
-🦁 LikeLion 2021 (Student-run Tech Entrepreneurship Community) <br>
-
 <h2>Principal Experience</h2>
 
 <img src="https://trello-logos.s3.amazonaws.com/8bc53408ee3fe48aadef42ec71dd9a77/170.png"
