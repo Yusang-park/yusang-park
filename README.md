@@ -19,7 +19,7 @@ EduTech start-up, serve learning language solution, attained 300,000 downloads
 <h2>Projects</h2>
 
 
- <b><a href="https://bitfolio.me"> Bitfolio </a> </b> <br>
+ <b><a href="https://bitfolio.me](https://coinfolio.netlify.app/"> Bitfolio </a> </b> <br>
 Cryptocurrencies information web service<br>
 
 <h2>Stacks</h2>
