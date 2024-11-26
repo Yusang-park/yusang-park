@@ -15,13 +15,6 @@ SiliconValley Bay area, Full-stack engineer with big-data
  <b><a href="https://lingory.net">Lingory</a></b><br>Founding member & Mobile developer, <span style="color:gray">2020.10 ~ 2022.1</span><br>
 EduTech start-up, serve learning language solution, attained 300,000 downloads
 
-
-<h2>Projects</h2>
-
-
- <b><a href="https://bitfolio.me](https://coinfolio.netlify.app/"> Bitfolio </a> </b> <br>
-Cryptocurrencies information web service<br>
-
 <h2>Stacks</h2>
 
 <img src="https://img.shields.io/badge/React-FFCD00?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Redux-FFCD00?style=flat-square&logo=Redux&logoColor=black"/> <img src="https://img.shields.io/badge/NodeJS-FFCD00?style=flat-square&logo=Node.js&logoColor=black"/> 
