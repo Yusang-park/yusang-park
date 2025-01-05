@@ -26,15 +26,3 @@ EduTech start-up, serve learning language solution, attained 300,000 downloads
 <img src="https://img.shields.io/badge/Flutter-FFCD00?style=flat-square&logo=flutter&logoColor=black"/> <img src="https://img.shields.io/badge/Dart-FFCD00?style=flat-square&logo=dart&logoColor=black"/>
 <img src="https://img.shields.io/badge/Firebase-FFCD00?style=flat-square&logo=Firebase&logoColor=black"/>
 
-
-
-<h2>Links</h2>
-<a href="https://pitterpark.notion.site/Yusang-Park-74ce7926bf06411b8f5410c365fc64b3">
-    <img 
-        src="http://img.shields.io/badge/Portfolio-blue?style=flat"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> 
-<a href="https://muhly.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-blueviolet?style=flat"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
